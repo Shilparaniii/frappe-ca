@@ -3,7 +3,7 @@ def get_data():
         {
             "module_name": "ramtestapp",
             "color": "blue",
-            "icon": "/assets/ramtestapp/images/app-logo.png",
+            "icon": "/assets/ramtestapp/public/images/app-logo.png",
             "type": "module",
             "label": _("ramtestapp")
         }
